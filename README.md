@@ -1,42 +1,187 @@
-# Portfolio
+## Feel free to reach out to me for smart contract audits
 
-This repo is a public profile that chronicles my adventure as an independent blockchain and smart contract security researcher, showcasing a curated selection of my public audits, reviews, and security contributions to the web3 ecosystem.
+Twitter: [bauchibred](https://twitter.com/bauchibred)\
+Discord: bauchibred\
+Gmail: bauchibred@gmail.com\
+Telegram: [@bauchibred](https://t.me/bauchibred)\
+Github: [bauchibred](https://github.com/bauchibred)
 
-I'm currently available for web3 security consulting and private reviews. Please reach out to me on Twitter [@Bauchibred](https://twitter.com/Bauchibred) if interested.
+Code4rena: [bauchibred](https://code4rena.com/@bauchibred)\
+Sherlock: [bauchibred](https://audits.sherlock.xyz/watson/bauchibred)\
+CodeHawks: [bauchibred](https://www.codehawks.com/profile/clk9ibj6p0002mh08c603lr2j)\
+Cantina: [bauchibred](https://cantina.xyz/u/Bauchibred)\
+Hats: [bauchibred](https://app.hats.finance/profile/Bauchibred)\
+Secure3: [bauchibred](https://app.secure3.io/profile/Bauchibred)
 
-## Past Audits
+Meetings can be scheduled via the link below:
 
-| Protocol                                                                                | Info                                                                                                                                                                                                                                                              | Report                                |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [Base](https://base.org/)                                                               | A secure, low-cost, developer-friendly Ethereum L2 built on the MIT-licensed OP Stack in collaboration with Optimism, to bring the next billion users on-chain, with Coinbase joining as the second core development team to promote its universal accessibility. | [report](audits/Base.md)              |
-| [USSD](http://ussd.ai/)                                                                 | An open-source protocol designed for creating an autonomous ERC20 stablecoin. It is pegged to the US dollar and has a multiple times collateralization ratio, ensuring long-term stability.                                                                       | [report](audits/USSD.md)              |
-| [Perennial](https://perennial.finance/)                                                 | A synthetic derivatives primitive for DEFI that is is built from first-principles to be powerful, flexible and scaleable so as to meet the needs of DeFi traders, liquidity providers, and developers.                                                            | [report](audits/Perennial.md)         |
-| [Ajna](https://www.ajna.finance/)                                                       | A non-custodial, peer-to-peer, permissionless lending, borrowing and trading system.                                                                                                                                                                              | [report](audits/Ajna.md)              |
-| [Beedle](https://twitter.com/beedlefi)                                                  | An ecosystem of DeFi primitives that includes an oracle free peer to peer perpetual lending.                                                                                                                                                                      | [report](audits/Beedle.md)            |
-| [Index](https://indexcoop.com/)                                                         | Foundation for decentralized structured products that make crypto simple, accessible, and secure.                                                                                                                                                                 | [report](audits/Index-Coop.md)        |
-| [Defi Stablecoin](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)         | A stablecoin project where users can deposit assets in exchange for a token that will be pegged to the USD.                                                                                                                                                       | [report](audits/Defi-tablecoin.md.md) |
-| [Hubble Exchange](https://hubble.exchange/)                                             | A trustless and composable trading system for perpetuals. Engineered at the intersection of derivatives and application-specific VMs.                                                                                                                             | [report](audits/Hubble-exchange.md)   |
-| [Venus](https://app.venus.io)                                                           | A DeFi money market protocol on the BNB Chain that enables P2P lending similar to traditional bank services.                                                                                                                                                      | [report](audits/Venus.md)             |
-| [Arrakis](https://www.arrakis.finance/)                                                 | A web3 trustless market making infrastructure protocol that enables running sophisticated algorithmic strategies on Uniswap V3.                                                                                                                                   | [report](audits/Arrakis.md)           |
-| [Escrow](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya#project-overview) | A project meant to enable smart contract auditors (sellers) and smart contract protocols looking for audits (buyers) to connect using a credibly neutral option, with optional arbitration.                                                                       | [report](audits/Escrow.md)            |
-| [Iron Bank](https://linktr.ee/ibdotxyz)                                                 | A decentralized lending platform focused on capital efficiency allowing protocols and individuals to supply and borrow cryptoassets.                                                                                                                              | [report](audits/Iron-bank.md)         |
-| [RealWagmi](https://wagmi.com/)                                                         | An all-in-one platform for trading, liquidity provision, swapping, and yield strategy generation.                                                                                                                                                                 | [report](audits/RealWagmi.md)         |
-| [Ajna _update_](https://www.ajna.finance/)                                              | A non-custodial, peer-to-peer, permissionless lending, borrowing and trading system.                                                                                                                                                                              | [report](audits/Ajna-update.md)       |
-| [Footium](https://footium.club/)                                                        | A multiplayer football management game where players own and manage their own digital football club that's to be deployed on the famous arbitrum L2.                                                                                                              | [report](audits/Footium.md)           |
-| [Sparkn](https://sparkn.io)                                                             | A marketplace for anyone who wants to solve their problems or anyone who wants to help solve problems.                                                                                                                                                            | [report](audits/Sparkn.md)            |
+https://calendly.com/bauchibred
 
-## Capture The Flag (CTF) Tutorials
+## Introduction
 
-- A series of 26 brief guides by Bauchibred, detailing solutions for every Ethernaut level challenge. _[See source](https://github.com/Bauchibred/ethernaut-solutions#solutions-to-the-ethernaut-challenges)_
+Hi, I am a Smart Contract Security Researcher interested in integrating and securing new & established blockchain protocols. I audit smart contracts written in solidity/vyperlang for EVM based chains. I also work on rust based smart contracts for Polkadot/substrate based systems. You can find me participating on various decentralized audit platforms such as [code4rena](https://code4rena.com/@bauchibred), [cantina](https://cantina.xyz/u/Bauchibred), [sherlock](https://audits.sherlock.xyz/watson/bauchibred), [codehawks](https://www.codehawks.com/profile/clk9ibj6p0002mh08c603lr2j), [hats](https://app.hats.finance/profile/Bauchibred) & [secure3](https://app.secure3.io/profile/Bauchibred).
 
-- Bauchibred's compilation of concise guides on unraveling the EVM puzzles crafted by Franco Victorio. _[See source](https://github.com/Bauchibred/evm-puzzles#evm-puzzles)_
+I am currently ranked #25 (90-day) and #43 (365-day) on code4rena leaderboards. I am also ranked #21 (all time) on CodeHawks. _(warning: this info can be slightly outdated)_.
 
-## About Bauchibred
+I have audited 80+ protocols on these various platforms + private engagements. I have also reported and helped mitigate vulnerabilities in live contracts via Immunify Boosts.
 
-**Bauchibred** is an independent smart contract security researcher. Having found numerous security vulnerabilities in various protocols, he does his best to contribute to the blockchain ecosystem and its protocols by putting time and effort into security research & reviews. Check his previous work [here](https://github.com/Bauchibred/portfolio/tree/main/audits) or reach out on Twitter [@bauchibred](https://twitter.com/bauchibred).
+## Organizations
 
-## Stats
+Various organizations I have worked with:
 
-- Over 70 Critical/High/Medium severity vulnerabilities found
-- More than 60% of audits end up with a Critical/High severity vulnerability reported & fixed
-- 2nd place in a Code4rena contest - [Base](https://code4rena.com/contests/2023-05-base#top)
+- [Code4rena](#code4rena)
+- [Sherlock](#sherlock)
+- [CodeHawks](#codehawks)
+- [Cantina](#cantina)
+- [Hats](#hats)
+- [Secure3](#secure3)
+
+
+## Stats 🏆
+
+### Contests Won: 🥇
+
+- [Renzo MR](https://github.com/code-423n4/2024-06-renzo-mitigation-findings)
+
+### Runner Up: 🥈
+
+- [Beanstalk Part 2](https://www.codehawks.com/report/clu7665bs0001fmt5yahc8tyh) ... _🥇 non-team competitor_
+- [Sophon Farming Contracts](https://audits.sherlock.xyz/contests/376/report)
+- [Tapioca](https://app.hats.finance/audit-competitions/tapioca-0xe0b920d38a0900af3bab7ff0ca0af554129f54ad)
+- [Base](https://code4rena.com/audits/2023-05-base)
+- [Tapioca Lending Engine](https://app.hats.finance/audit-competitions/tapioca-lending-engine-0x5bee198f5b060eecd86b299fdbea6b0c07c728dd)
+
+### Third Place: 🥉
+
+- [Renzo](https://code4rena.com/audits/2024-04-renzo#top) ... _🥇 non-team competitor_
+- Doubler Invitational (Private)
+- [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287/report)
+- Audit 384 Invitational (Private)
+- [Panoptic](https://code4rena.com/audits/2024-06-panoptic)
+
+### Top 5: 🏅
+
+- [Abracadabra Mimswap](https://code4rena.com/audits/2024-03-abracadabra-mimswap)
+- [Kelp Dao](https://code4rena.com/audits/2023-11-kelp-dao-rseth)
+
+### Top 10: 🏅
+
+- [Maia DAO](https://code4rena.com/audits/2023-09-centrifuge)
+- [Index](https://audits.sherlock.xyz/contests/81/report)
+- [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend)
+- [Salty.io](https://code4rena.com/audits/2024-01-saltyio)
+- [Vyper Compiler](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc)
+- [Munchables](https://code4rena.com/audits/2024-04-panoptic)
+- [Phat Contract Runtime](https://code4rena.com/audits/2024-03-phat-contract-runtime)
+
+## Portfolio
+
+### [Code4rena](https://code4rena.com/@bauchibred)
+
+| Contest                  | Date      | Keywords              | Findings       | Rank (top 10 only) | Report                                                                                                       |
+| ------------------------ | --------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Renzo MR                 | Jun 2024 | Staking, LRT          | -              | 1                  | [Link](https://github.com/code-423n4/2024-06-renzo-mitigation-findings)                                      |
+| Doubler Invitational     | Jun 2024  | EVM, Solidity         | 3 M, 9 L       | 3                  | Private                                                                                                      |
+| Panoptic                 | June 2024 | Perp, EVM             | 1 L            | 3                  | [Link](https://code4rena.com/audits/2024-06-panoptic)                                                        |
+| Renzo                    | May 2024  | Staking, LRT          | 2 H, 4 M, 15 L | 3                  | [Link](https://code4rena.com/audits/2024-04-renzo#top)                                                       |
+| Audit 384 Invitational   | May 2024  | EVM, Solidity         | 2 H, 4 M, 10 L | 3                  | Private                                                                                                      |
+| Munchables               | May 2024  | Gaming                | 1 M, 8 L       | 9                  | [Link](https://code4rena.com/audits/2024-04-panoptic)                                                        |
+| Panoptic                 | Apr 2024  | Perp, EVM             | 1 M, 28 L      |                    | [Link](https://code4rena.com/audits/2024-04-panoptic)                                                        |
+| DYAD                     | Apr 2024  | CDP, Stablecoin       | 3 M, 12 L      |                    | [Link](https://code4rena.com/audits/2024-04-dyad)                                                            |
+| zkSync Era               | Mar 2024  | Yul, zkEVM            | 1 M, 58 L      | 4                  | [Link](https://code4rena.com/audits/2024-03-zksync-era)                                                      |
+| Abracadabra Mimswap      | Mar 2024  | Blast, AMM            | 1 M, 8 L L     | 5                  | [Link](https://code4rena.com/audits/2024-03-abracadabra-mimswap)                                             |
+| Acala                    | Mar 2024  | Rust, Polkadot        | 1 M, 8 L       | 7                  | [Link](https://code4rena.com/audits/2024-03-acala)                                                           |
+| DittoETH                 | Mar 2024  | Stablecoin            | 1 M            |                    | [Link](https://code4rena.com/audits/2024-03-dittoeth)                                                        |
+| Revert Lend              | Mar 2024  | Lending               | 1 H, 1 M, 6 L  | 9                  | [Link](https://code4rena.com/audits/2024-03-revert-lend)                                                     |
+| Phat Contract Runtime    | Mar 2024  | Rust, Coprocessor     | 7 L            | 10                 | [Link](https://code4rena.com/audits/2024-03-phat-contract-runtime)                                           |
+| AI Arena                 | Feb 2024  | Gaming                | 2 H, 6 L       |                    | [Link](https://code4rena.com/audits/2024-01-saltyio)                                                         |
+| Unistaker Infrastructure | Feb 2024  | Staking               | 1 L            |                    | [Link](https://code4rena.com/audits/2024-02-unistaker-infrastructure)                                        |
+| Salty.io                 | Jan 2024  | DEX                   | 1 M, 9 L       | 10                 | [Link](https://code4rena.com/audits/2024-01-saltyio)                                                         |
+| Olas                     | Jan 2024  | EVM                   | 12 L           |                    | [Link](https://code4rena.com/audits/2023-12-olas)                                                            |
+| Eth Credit Guild         | Dec 2023  | Lending               | 7 L            |                    | [Link](https://code4rena.com/audits/2023-12-ethereum-credit-guild#top)                                       |
+| Zetachain                | Nov 2023  | Cross-chain           | 9 L            |                    | [Link](https://code4rena.com/audits/2023-11-zetachain)                                                       |
+| Canto Application        | Nov 2023  | Bond, Stablecoin      | 7 L            |                    | [Link](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s) |
+| Kelp Dao                 | Nov 2023  | DAO, Staking & LRT    | 1 H, 1 M, 6 L  | 4                  | [Link](https://code4rena.com/audits/2023-11-kelp-dao-rseth)                                                  |
+| Party Protocol           | Nov 2023  | Group                 | 2 M, 10 L      | 7                  | [Link](https://code4rena.com/audits/2023-10-party-protocol)                                                  |
+| NextGen                  | Oct 2023  | Art                   | 1 M            |                    | [Link](https://code4rena.com/audits/2023-10-nextgen)                                                         |
+| Brahma                   | Oct 2023  | Custody               | 11 L           |                    | [Link](https://code4rena.com/audits/2023-10-brahma)                                                          |
+| Ethena Labs              | Oct 2023  | Bond                  | 6 L            |                    | [Link](https://code4rena.com/audits/2023-10-ethena-labs)                                                     |
+| ENS                      | Oct 2023  | Naming                | 12 L           |                    | [Link](https://code4rena.com/audits/2023-10-ens-contest)                                                     |
+| zkSync Era               | Oct 2023  | zkEVM                 | 26 L           |                    | [Link](https://code4rena.com/audits/2023-10-zksync-era)                                                      |
+| Centrifuge               | Sep 2023  | Credit                | 2 M, 9 L       |                    | [Link](https://code4rena.com/audits/2023-09-centrifuge)                                                      |
+| Venus Prime              | Sep 2023  | Earn, Borrrow & Lend  | 9 L            |                    | [Link](https://code4rena.com/audits/2023-09-venus-prime)                                                     |
+| Maia DAO                 | Sep 2023  | DAO, Omnichain        | 2 M, 14 L      | 10                 | [Link](https://code4rena.com/audits/2023-09-centrifuge)                                                      |
+| Chainlink Staking        | Aug 2023  | Staking               | 2 L            |                    | [Link](https://code4rena.com/audits/2023-08-chainlink-staking-v02#top)                                       |
+| Dopex                    | Aug 2023  | Options               | 2 M, 4 L       |                    | [Link](https://code4rena.com/audits/2023-08-dopex#top)                                                       |
+| Tangible Caviar          | Aug 2023  | Yield                 | 1 H, 1 M, 4 L  |                    | [Link](https://code4rena.com/audits/2023-08-tangible-caviar#top)                                             |
+| Axelar Network           | Aug 2023  | Options               | 13 L           |                    | [Link](https://code4rena.com/audits/2023-07-axelar-network)                                                  |
+| Amphora Protocol         | Jul 2023  | Lending               | 1 H, 15 L      |                    | [Link](https://code4rena.com/audits/2023-07-amphora-protocol)                                                |
+| Pooltogether             | Jul 2023  | Finance               | 6 L            |                    | [Link](https://code4rena.com/audits/2023-07-pooltogether)                                                    |
+| Nouns DAO                | Jul 2023  | DAO NFT               | 4L             |                    | [Link](https://code4rena.com/audits/2023-07-nouns-dao)                                                       |
+| Lybra Finance            | Jun 2023  | Omnichain, Stablecoin | 1 L            |                    | [Link](https://code4rena.com/audits/2023-06-lybra-finance)                                                   |
+| Stader labs              | Jun 2023  | Staking               | 1 M            |                    | [Link](https://code4rena.com/audits/2023-06-stader-labs)                                                     |
+| Base                     | May 2023  | Optimistic L2         | 20 L           | 2                  | [Link](https://code4rena.com/audits/2023-05-base)                                                            |
+| Venus                    | May 2023  | Earn, Borrow & Lend   | 1 H, 18 L      |                    | [Link](https://code4rena.com/audits/2023-05-venus-protocol-isolated-pools)                                   |
+| Ajna Protocol            | May 2023  | Lending               | 1 H, 1 M       |                    | [Link](https://code4rena.com/audits/2023-05-ajna-protocol)                                                   |
+| Frankencoin              | Apr 2023  | CDP                   | 12 L           |                    | [Link](https://code4rena.com/audits/2023-04-frankencoin#top)                                                 |
+| ENS                      | Apr 2023  | Naming                | 22 L           |                    | [Link](https://code4rena.com/audits/2023-04-ens-contest)                                                     |
+| Caviar Private Pools     | Apr 2023  | NFT, AMM              | 9 L            |                    | [Link](https://code4rena.com/audits/2023-04-caviar-private-pools)                                            |
+| Canto Identity           | Mar 2023  | Canto                 | 4 L            |                    | [Link](https://code4rena.com/audits/2023-03-canto-identity-subprotocols-contestp)                            |
+
+### [Sherlock](https://audits.sherlock.xyz/watson/bauchibred)
+
+| Contest                       | Date     | Keywords                | Findings | Rank (top 10 only) | Report                                                  |
+| ----------------------------- | -------- | ----------------------- | -------- | ------------------ | ------------------------------------------------------- |
+| Sophon Farming Contracts      | May 2024 | Staking                 | 1 H, 1 L | 2                  | [Link](https://audits.sherlock.xyz/contests/376/report) |
+| Napier - LST/LRT Integrations | May 2024 | LST, LRT                | 1 M      |                    | [Link](https://audits.sherlock.xyz/contests/369/report) |
+| Flat Money Fix Review         | Apr 2024 | Leverage                | 1 M      | 3                  | [Link](https://audits.sherlock.xyz/contests/287/report) |
+| Teller Finance                | Apr 2024 | Lending                 | 1 H      |                    | [Link](https://audits.sherlock.xyz/contests/295/report) |
+| Zivoe                         | Apr 2024 | Lending                 | 1 M      |                    | [Link](https://audits.sherlock.xyz/contests/280/report) |
+| Tokemak                       | Aug 2023 | Yield                   | 1 H      |                    | [Link](https://audits.sherlock.xyz/contests/101/report) |
+| Hubble                        | Jul 2023 | Exchange                | 2 M      |                    | [Link](https://audits.sherlock.xyz/contests/72/report)  |
+| RealWagmi                     | Jun 2023 | Defi swapper/earner     | 1 H      |                    | [Link](https://audits.sherlock.xyz/contests/88/report)  |
+| Index                         | May 2023 | Defi _AAVE Integration_ | 2 M      | 7                  | [Link](https://audits.sherlock.xyz/contests/81/report)  |
+| USSD                          | May 2023 | Stablecoin              | 4 H, 3 M |                    | [Link](https://audits.sherlock.xyz/contests/82/report)  |
+| Iron Bank                     | May 2023 | Supply, Borrow          | 2 M      |                    | [Link](https://audits.sherlock.xyz/contests/84/report)  |
+| Perennial                     | Apr 2023 | Defi                    | 1 M      |                    | [Link](https://audits.sherlock.xyz/contests/79/report)  |
+| Blueberry Update              | Apr 2023 | Lending                 | 2 M      |                    | [Link](https://audits.sherlock.xyz/contests/69/report)  |
+| Footium                       | Apr 2023 | Gaming                  | 2 M      |                    | [Link](https://audits.sherlock.xyz/contests/71/report)  |
+
+### [Codehawks](https://www.codehawks.com/profile/clkdvewih0000l909yza1oaop)
+
+| Contest                 | Date     | Keywords        | Findings      | Rank (top 10 only) | Report                                                             |
+| ----------------------- | -------- | --------------- | ------------- | ------------------ | ------------------------------------------------------------------ |
+| Sablier                 | May 2024 | AMM             | 1 M           |                    | [Link](https://www.codehawks.com/report/clvb9njmy00012dqjyaavpl44) |
+| Beanstalk Part 2        | Apr 2024 | Oracle          | 2 M           | 2                  | [Link](https://www.codehawks.com/report/clu7665bs0001fmt5yahc8tyh) |
+| The Standard            | Dec 2023 | Borrowing       | 1 M, 1 L      |                    | [Link](https://www.codehawks.com/report/clql6lvyu0001mnje1xpqcuvl) |
+| Vyper                   | Nov 2023 | Compiler, Vyper | 2 M           | 10                 | [Link](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc) |
+| Beedle - Oracle         | Aug 2023 | Perps           | 3 H, 3 M, 3 L |                    | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
+| Foundry DeFi Stablecoin | Aug 2023 | Stablecoin      | 5 M, 1 L      |                    | [Link](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
+| Codehawks Escrow        | Aug 2023 | Escrow          | 1 M, 1 L      |                    | [Link](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) |
+
+### [Cantina](https://cantina.xyz/u/bauchibred)
+
+| Contest       | Date     | Keywords              | Findings       | Rank (top 10 only) | Report                                                                         |
+| ------------- | -------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------ |
+| OP Labs       | May 2024 | Gnosis Safe-Extension | 2 L            |                    | [Link](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc)             |
+| Curvance      | Apr 2024 | Cross-chain, Yield    | 1 H, 3 M, 10 L |                    | [Link](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff)  |
+| Goat Tech     | Apr 2024 | Gaming, Staking       | 2 M, 8 L       |                    | [Link](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80l) |
+| Superform     | Dec 2023 | EVM                   | 4 L            |                    | [Link](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)  |
+| MetaMorpho    | Aug 2023 | Lending, Vault        | 1 M, 8 L       |                    | [Link](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)  |
+| Morpho - Blue | Aug 2023 | Lending               | 7 L            |                    | [Link](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)  |
+
+### [Hats](https://app.hats.finance/profile/Bauchibred)
+
+| Contest                | Date      | Keywords  | Findings | Rank (top 10 only) | Report                                                                                                                            |
+| ---------------------- | --------- | --------- | -------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| Tapioca                | Jun 2024 | Omnichain | 1 L      | 2                  | [Link](https://app.hats.finance/audit-competitions/tapioca-0xe0b920d38a0900af3bab7ff0ca0af554129f54ad/leaderboard)                |
+| Tapioca Lending Engine | May 2024  | Lending   | 1 L      | 2                  | [Link](https://app.hats.finance/audit-competitions/tapioca-lending-engine-0x5bee198f5b060eecd86b299fdbea6b0c07c728dd/leaderboard) |
+
+### [Secure3](https://app.secure3.io/profile/Bauchibred)
+
+| Contest | Date      | Keywords | Findings | Rank (top 10 only) | Report  |
+| ------- | --------- | -------- | -------- | ------------------ | ------- |
+| -       | Jun 2024 | -        |          |                    | Pending |
+| -       | May 2024  | -        |          |                    | Pending |
+
+
