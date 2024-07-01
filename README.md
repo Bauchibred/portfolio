@@ -46,9 +46,9 @@ Various organizations I have worked with:
 ### Runner Up: 🥈
 
 - [Beanstalk Part 2](https://www.codehawks.com/report/clu7665bs0001fmt5yahc8tyh) ... _🥇 non-team competitor_
-- [Sophon Farming Contracts](https://audits.sherlock.xyz/contests/376/report)
-- [Tapioca](https://app.hats.finance/audit-competitions/tapioca-0xe0b920d38a0900af3bab7ff0ca0af554129f54ad)
 - [Base](https://code4rena.com/audits/2023-05-base)
+- [Tapioca](https://app.hats.finance/audit-competitions/tapioca-0xe0b920d38a0900af3bab7ff0ca0af554129f54ad)
+- [Sophon Farming Contracts](https://audits.sherlock.xyz/contests/376/report)
 - [Tapioca Lending Engine](https://app.hats.finance/audit-competitions/tapioca-lending-engine-0x5bee198f5b060eecd86b299fdbea6b0c07c728dd)
 
 ### Third Place: 🥉
@@ -82,7 +82,7 @@ Various organizations I have worked with:
 | ------------------------ | --------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------ |
 | Renzo MR                 | Jun 2024 | Staking, LRT          | -              | 1                  | [Link](https://github.com/code-423n4/2024-06-renzo-mitigation-findings)                                      |
 | Doubler Invitational     | Jun 2024  | EVM, Solidity         | 3 M, 9 L       | 3                  | Private                                                                                                      |
-| Panoptic                 | June 2024 | Perp, EVM             | 1 L            | 3                  | [Link](https://code4rena.com/audits/2024-06-panoptic)                                                        |
+| Panoptic                 | Jun 2024 | Perp, EVM             | 1 L            | 3                  | [Link](https://code4rena.com/audits/2024-06-panoptic)                                                        |
 | Renzo                    | May 2024  | Staking, LRT          | 2 H, 4 M, 15 L | 3                  | [Link](https://code4rena.com/audits/2024-04-renzo#top)                                                       |
 | Audit 384 Invitational   | May 2024  | EVM, Solidity         | 2 H, 4 M, 10 L | 3                  | Private                                                                                                      |
 | Munchables               | May 2024  | Gaming                | 1 M, 8 L       | 9                  | [Link](https://code4rena.com/audits/2024-04-panoptic)                                                        |
