@@ -61,6 +61,7 @@ Various organizations I have worked with:
 
 ### Top 5: 🏅
 
+- [Thorchain](https://code4rena.com/audits/2024-06-thorchain)
 - [Abracadabra Mimswap](https://code4rena.com/audits/2024-03-abracadabra-mimswap)
 - [Kelp Dao](https://code4rena.com/audits/2023-11-kelp-dao-rseth)
 
@@ -81,10 +82,12 @@ Various organizations I have worked with:
 | Contest                  | Date      | Keywords              | Findings       | Rank (top 10 only) | Report                                                                                                       |
 | ------------------------ | --------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------ |
 | Renzo MR                 | Jun 2024 | Staking, LRT          | -              | 1                  | [Link](https://github.com/code-423n4/2024-06-renzo-mitigation-findings)                                      |
+| Thorchain              | Jun 2024 | EVM, Go          | 1 H             | 4                  | [Link](https://code4rena.com/audits/2024-06-thorchain)                                     |
 | Doubler Invitational     | Jun 2024  | EVM, Solidity         | 3 M, 9 L       | 3                  | Private                                                                                                      |
 | Panoptic                 | Jun 2024 | Perp, EVM             | 1 L            | 3                  | [Link](https://code4rena.com/audits/2024-06-panoptic)                                                        |
 | Renzo                    | May 2024  | Staking, LRT          | 2 H, 4 M, 15 L | 3                  | [Link](https://code4rena.com/audits/2024-04-renzo#top)                                                       |
 | Audit 384 Invitational   | May 2024  | EVM, Solidity         | 2 H, 4 M, 10 L | 3                  | Private                                                                                                      |
+| Noya               | May 2024  | EVM, Solidity                | 2 H, 12 M, 23 L       |                   | [Link](https://code4rena.com/audits/2024-04-noya#top)                                                 |
 | Munchables               | May 2024  | Gaming                | 1 M, 8 L       | 9                  | [Link](https://code4rena.com/audits/2024-04-panoptic)                                                        |
 | Panoptic                 | Apr 2024  | Perp, EVM             | 1 M, 28 L      |                    | [Link](https://code4rena.com/audits/2024-04-panoptic)                                                        |
 | DYAD                     | Apr 2024  | CDP, Stablecoin       | 3 M, 12 L      |                    | [Link](https://code4rena.com/audits/2024-04-dyad)                                                            |
