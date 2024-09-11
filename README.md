@@ -150,7 +150,7 @@ Various organizations I have worked with:
 | Blueberry Update              | Apr 2023 | Lending                 | 2 M      |                    | [Link](https://audits.sherlock.xyz/contests/69/report)  |
 | Footium                       | Apr 2023 | Gaming                  | 2 M      |                    | [Link](https://audits.sherlock.xyz/contests/71/report)  |
 
-### [Codehawks](https://www.codehawks.com/profile/clkdvewih0000l909yza1oaop)
+### [Codehawks](https://codehawks.cyfrin.io/profile/clk9ibj6p0002mh08c603lr2j)
 
 | Contest                 | Date     | Keywords        | Findings      | Rank (top 10 only) | Report                                                             |
 | ----------------------- | -------- | --------------- | ------------- | ------------------ | ------------------------------------------------------------------ |
