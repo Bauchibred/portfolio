@@ -21,9 +21,9 @@ https://calendly.com/bauchibred
 
 Hi, I am a Smart Contract Security Researcher interested in integrating and securing new & established blockchain protocols. I audit smart contracts written in solidity/vyperlang for EVM based chains. I also work on rust based smart contracts for Polkadot/substrate based systems. You can find me participating on various decentralized audit platforms such as [code4rena](https://code4rena.com/@bauchibred), [cantina](https://cantina.xyz/u/Bauchibred), [sherlock](https://audits.sherlock.xyz/watson/bauchibred), [codehawks](https://www.codehawks.com/profile/clk9ibj6p0002mh08c603lr2j), [hats](https://app.hats.finance/profile/Bauchibred) & [secure3](https://app.secure3.io/profile/Bauchibred).
 
-I am currently ranked #25 (90-day) and #43 (365-day) on code4rena leaderboards. I am also ranked #21 (all time) on CodeHawks. _(warning: this info can be slightly outdated)_.
+I am currently ranked #20 (90-day) and #27 (2024) on code4rena leaderboards. I am also ranked #30 (all time) on CodeHawks. _(warning: this info can be slightly outdated)_.
 
-I have audited 80+ protocols on these various platforms + private engagements. I have also reported and helped mitigate vulnerabilities in live contracts via Immunify Boosts.
+I have audited 100+ protocols on these various platforms + private engagements. I have also reported and helped mitigate vulnerabilities in live contracts via Immunify Boosts.
 
 ## Organizations
 
@@ -40,15 +40,17 @@ Various organizations I have worked with:
 ## Stats 🏆
 
 ### Contests Won: 🥇
-
+- [Reserve Core MR](https://github.com/code-423n4/2024-09-reserve-mitigation-findings)
+- [Domichain](https://app.secure3.io/0616a26f7b) 
 - [Renzo MR](https://github.com/code-423n4/2024-06-renzo-mitigation-findings)
 
 ### Runner Up: 🥈
 
-- [Beanstalk Part 2](https://www.codehawks.com/report/clu7665bs0001fmt5yahc8tyh) ... _🥇 non-team competitor_
+- [Beanstalk Part 2](https://codehawks.cyfrin.io/c/2024-04-beanstalk-2/results?t=report&lt=contest&page=1) ... _🥇 non-team competitor_
 - [Base](https://code4rena.com/audits/2023-05-base)
 - [Tapioca](https://app.hats.finance/audit-competitions/tapioca-0xe0b920d38a0900af3bab7ff0ca0af554129f54ad)
 - [Sophon Farming Contracts](https://audits.sherlock.xyz/contests/376/report)
+- [NeoX Bridge](https://app.secure3.io/3d3e97be60?tab=winners)
 - [Tapioca Lending Engine](https://app.hats.finance/audit-competitions/tapioca-lending-engine-0x5bee198f5b060eecd86b299fdbea6b0c07c728dd)
 
 ### Third Place: 🥉
@@ -60,20 +62,25 @@ Various organizations I have worked with:
 - [Panoptic](https://code4rena.com/audits/2024-06-panoptic)
 
 ### Top 5: 🏅
-
+- [Axelar Network](https://code4rena.com/audits/2024-08-axelar-network) 
+- [Reserve Core](https://code4rena.com/audits/2024-07-reserve-core)  
+- [Centrifuge](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard) 
 - [Thorchain](https://code4rena.com/audits/2024-06-thorchain)
 - [Abracadabra Mimswap](https://code4rena.com/audits/2024-03-abracadabra-mimswap)
+- [Krystal Defi](https://code4rena.com/reports/2024-06-krystal-defi) 
 - [Kelp Dao](https://code4rena.com/audits/2023-11-kelp-dao-rseth)
 
 ### Top 10: 🏅
-
+- [Predy](https://code4rena.com/audits/2024-05-predy)
 - [Maia DAO](https://code4rena.com/audits/2023-09-centrifuge)
+- [Traitforge](https://code4rena.com/audits/2024-07-traitforge)    
+- [Phat Contract Runtime](https://code4rena.com/audits/2024-03-phat-contract-runtime)
 - [Index](https://audits.sherlock.xyz/contests/81/report)
+- [Vyper Compiler](https://codehawks.cyfrin.io/c/2023-09-vyper-compiler/results?t=report&page=1)
 - [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend)
 - [Salty.io](https://code4rena.com/audits/2024-01-saltyio)
-- [Vyper Compiler](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc)
+- [Union Finance](https://audits.sherlock.xyz/contests/445/leaderboard)
 - [Munchables](https://code4rena.com/audits/2024-04-panoptic)
-- [Phat Contract Runtime](https://code4rena.com/audits/2024-03-phat-contract-runtime)
 
 ## Portfolio
 
@@ -81,10 +88,20 @@ Various organizations I have worked with:
 
 | Contest                  | Date      | Keywords              | Findings       | Rank (top 10 only) | Report                                                                                                       |
 | ------------------------ | --------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Reserve Core  MR         | Aug 2024 | Governance, Stable Currencies          | -          | 1                  | [Link](https://github.com/code-423n4/2024-09-reserve-mitigation-findings)                                     |
+| Axelar Network         | Aug 2024 | Rust, Decentralized Network          | 1 M, 31 L             | 4                  | [Link](https://code4rena.com/audits/2024-08-axelar-network)                                     |
+| TraitForge           | Aug 2024 | NFT Game          | 2 M, 16 L           | 6                  | [Link](https://code4rena.com/audits/2024-07-traitforge)                                     |
+| Reserve Core           | Aug 2024 | Governance, Stable Currencies          | 1 M, 27 L             | 4                  | [Link](https://code4rena.com/reports/2024-07-reserve)                                     |
+| Basin           | Aug 2024 | Dex          | 1 H             |                   | [Link](https://code4rena.com/reports/2024-07-basin)                                     |
+| Superposition          | Aug 2024 | AMM, Rust          | 1 M             |                   | [Link](https://code4rena.com/audits/2024-08-superposition)                                     |
+| Krystal Defi              | Jul 2024 | EVM, Go          | 1 M, 9 L             | 4                  | [Link](https://code4rena.com/reports/2024-06-krystal-defi)                                     |
+| Optimism Superchain              | Jul 2024 | Fault Dispute Game         | 14 L            |                   | [Link](https://code4rena.com/reports/2024-07-optimism)                                     |
 | Renzo MR                 | Jun 2024 | Staking, LRT          | -              | 1                  | [Link](https://github.com/code-423n4/2024-06-renzo-mitigation-findings)                                      |
+| Predy              | Jun 2024 | Perp Dex           | 3 M, 25 L             | 6                  | [Link](https://code4rena.com/audits/2024-05-predy)                                    |
 | Thorchain              | Jun 2024 | EVM, Go          | 1 H             | 4                  | [Link](https://code4rena.com/audits/2024-06-thorchain)                                     |
 | Doubler Invitational     | Jun 2024  | EVM, Solidity         | 3 M, 9 L       | 3                  | Private                                                                                                      |
 | Panoptic                 | Jun 2024 | Perp, EVM             | 1 L            | 3                  | [Link](https://code4rena.com/audits/2024-06-panoptic)                                                        |
+| Size               | Jun 2024 | Credit, Marketplace             | 13 L            |                   | [Link](https://code4rena.com/reports/2024-06-size)                                                        |
 | Renzo                    | May 2024  | Staking, LRT          | 2 H, 4 M, 15 L | 3                  | [Link](https://code4rena.com/audits/2024-04-renzo#top)                                                       |
 | Audit 384 Invitational   | May 2024  | EVM, Solidity         | 2 H, 4 M, 10 L | 3                  | Private                                                                                                      |
 | Noya               | May 2024  | EVM, Solidity                | 2 H, 12 M, 23 L       |                   | [Link](https://code4rena.com/audits/2024-04-noya#top)                                                 |
@@ -129,12 +146,15 @@ Various organizations I have worked with:
 | Frankencoin              | Apr 2023  | CDP                   | 12 L           |                    | [Link](https://code4rena.com/audits/2023-04-frankencoin#top)                                                 |
 | ENS                      | Apr 2023  | Naming                | 22 L           |                    | [Link](https://code4rena.com/audits/2023-04-ens-contest)                                                     |
 | Caviar Private Pools     | Apr 2023  | NFT, AMM              | 9 L            |                    | [Link](https://code4rena.com/audits/2023-04-caviar-private-pools)                                            |
-| Canto Identity           | Mar 2023  | Canto                 | 4 L            |                    | [Link](https://code4rena.com/audits/2023-03-canto-identity-subprotocols-contestp)                            |
+| Canto Identity           | Mar 2023  | Canto                 | 4 L            |                    | [Link](https://code4rena.com/audits/2023-03-canto-identity-subprotocols-contest)                            |
 
 ### [Sherlock](https://audits.sherlock.xyz/watson/bauchibred)
 
 | Contest                       | Date     | Keywords                | Findings | Rank (top 10 only) | Report                                                  |
 | ----------------------------- | -------- | ----------------------- | -------- | ------------------ | ------------------------------------------------------- |
+| Velocimeter     | Jul 2024 | Guage                 | 1 H |                   | [Link](https://audits.sherlock.xyz/contests/442/report) |
+| MagicSea     | Jul 2024 | Dex                 | 1 M |                   | [Link](https://audits.sherlock.xyz/contests/437/report) |
+| UnionFinance     | Jul 2024 | P2P, Credit                 | 1 M |    10               | [Link](https://audits.sherlock.xyz/contests/445/report) |
 | Sophon Farming Contracts      | May 2024 | Staking                 | 1 H, 1 L | 2                  | [Link](https://audits.sherlock.xyz/contests/376/report) |
 | Napier - LST/LRT Integrations | May 2024 | LST, LRT                | 1 M      |                    | [Link](https://audits.sherlock.xyz/contests/369/report) |
 | Flat Money Fix Review         | Apr 2024 | Leverage                | 1 M      | 3                  | [Link](https://audits.sherlock.xyz/contests/287/report) |
@@ -154,18 +174,26 @@ Various organizations I have worked with:
 
 | Contest                 | Date     | Keywords        | Findings      | Rank (top 10 only) | Report                                                             |
 | ----------------------- | -------- | --------------- | ------------- | ------------------ | ------------------------------------------------------------------ |
-| Sablier                 | May 2024 | AMM             | 1 M           |                    | [Link](https://www.codehawks.com/report/clvb9njmy00012dqjyaavpl44) |
-| Beanstalk Part 2        | Apr 2024 | Oracle          | 2 M           | 2                  | [Link](https://www.codehawks.com/report/clu7665bs0001fmt5yahc8tyh) |
-| The Standard            | Dec 2023 | Borrowing       | 1 M, 1 L      |                    | [Link](https://www.codehawks.com/report/clql6lvyu0001mnje1xpqcuvl) |
-| Vyper                   | Nov 2023 | Compiler, Vyper | 2 M           | 10                 | [Link](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc) |
-| Beedle - Oracle         | Aug 2023 | Perps           | 3 H, 3 M, 3 L |                    | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
-| Foundry DeFi Stablecoin | Aug 2023 | Stablecoin      | 5 M, 1 L      |                    | [Link](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
-| Codehawks Escrow        | Aug 2023 | Escrow          | 1 M, 1 L      |                    | [Link](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) |
+| Tadle                | Aug 2024 | Liquidity bridging      | 1 H,  1 M          |                    | [Link](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
+| ArkProject: NFT Bridge                 | Aug 2024 | Bridge, Starknet, Cairo          | 1 M          |                    | [Link](https://codehawks.cyfrin.io/c/2024-07-ark-project/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
+| Beanstalk The Finale 2        | Jul 2024 | StableCoin          | 2 M, 4 L          |                   | [Link](https://codehawks.cyfrin.io/c/2024-05-beanstalk-the-finale/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
+| Biconomy: Nexus                 | Jul 2024 | Account abstraction          | 1 H, 1M           |                    | [Link](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
+| TempleGold                 | Jul 2024 | Treasury, Layer Zero             | 1 H           |                    | [Link](https://codehawks.cyfrin.io/c/2024-07-templegold/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
+| Zaros                 | Jul 2024 | Dex, Lp          | 1 H          |                    | [Link](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
+| Sablier                 | May 2024 | AMM             | 1 M           |                    | [Link](https://codehawks.cyfrin.io/c/2024-05-Sablier/results?t=report&lt=contest&page=1) |
+| Beanstalk Part 2        | Apr 2024 | Oracle          | 2 M           | 2                  | [Link](https://codehawks.cyfrin.io/c/2024-04-beanstalk-2/results?t=report&lt=contest&page=1) |
+| The Standard            | Dec 2023 | Borrowing       | 1 M, 1 L      |                    | [Link](https://codehawks.cyfrin.io/c/2023-12-the-standard/results?t=report&page=1) |
+| Vyper                   | Nov 2023 | Compiler, Vyper, Python | 2 M           | 10                 | [Link](https://codehawks.cyfrin.io/c/2023-09-vyper-compiler/results?t=report&page=1) |
+| Beedle - Oracle         | Aug 2023 | Perps           | 3 H, 3 M, 3 L |                    | [Link](https://codehawks.cyfrin.io/c/2023-07-beedle/results?t=report&page=1) |
+| Foundry DeFi Stablecoin | Aug 2023 | Stablecoin      | 5 M, 1 L      |                    | [Link](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/results?t=report&page=1) |
+| SparkN                   | Aug 2023 | Marketplace | 3 L            |                  | [Link](https://codehawks.cyfrin.io/c/2023-08-sparkn/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
+| Codehawks Escrow        | Aug 2023 | Escrow          | 1 M, 1 L      |                    | [Link](https://codehawks.cyfrin.io/c/2023-07-escrow/results?t=report&page=1) |
 
 ### [Cantina](https://cantina.xyz/u/bauchibred)
 
 | Contest       | Date     | Keywords              | Findings       | Rank (top 10 only) | Report                                                                         |
 | ------------- | -------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------ |
+| Centrifuge     | Sep 2024 | L1, Substrate, Rust | 1 H, 4 M            |       4             | [Link](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard)             |
 | OP Labs       | May 2024 | Gnosis Safe-Extension | 2 L            |                    | [Link](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc)             |
 | Curvance      | Apr 2024 | Cross-chain, Yield    | 1 H, 3 M, 10 L |                    | [Link](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff)  |
 | Goat Tech     | Apr 2024 | Gaming, Staking       | 2 M, 8 L       |                    | [Link](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80l) |
@@ -184,7 +212,7 @@ Various organizations I have worked with:
 
 | Contest | Date      | Keywords | Findings | Rank (top 10 only) | Report  |
 | ------- | --------- | -------- | -------- | ------------------ | ------- |
-| -       | Jun 2024 | -        |          |                    | Pending |
-| -       | May 2024  | -        |          |                    | Pending |
+| Domichain       | Jun 2024 | Rust, Blockchain, DLT        |     2 M     |                   1 | [Link](https://app.secure3.io/0616a26f7b) |
+| NeoX Bridge      | Jun 2024  | Bridge        |          |                 2    | [Link](https://app.secure3.io/3d3e97be60?tab=winners) |
 
 
