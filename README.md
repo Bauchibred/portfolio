@@ -80,6 +80,7 @@ Various organizations I have worked with:
 - [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend)
 - [Salty.io](https://code4rena.com/audits/2024-01-saltyio)
 - [Union Finance](https://audits.sherlock.xyz/contests/445/leaderboard)
+- [Metamorpho](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af/leaderboard) 
 - [Munchables](https://code4rena.com/audits/2024-04-panoptic)
 
 ## Portfolio
@@ -194,11 +195,12 @@ Various organizations I have worked with:
 | Contest       | Date     | Keywords              | Findings       | Rank (top 10 only) | Report                                                                         |
 | ------------- | -------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------ |
 | Centrifuge     | Sep 2024 | L1, Substrate, Rust | 1 H, 4 M            |       4             | [Link](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard)             |
+| Zetachain     | Aug 2024 | L1, Solana | 1 M            |                    | [Link](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e)             |
 | OP Labs       | May 2024 | Gnosis Safe-Extension | 2 L            |                    | [Link](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc)             |
 | Curvance      | Apr 2024 | Cross-chain, Yield    | 1 H, 3 M, 10 L |                    | [Link](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff)  |
 | Goat Tech     | Apr 2024 | Gaming, Staking       | 2 M, 8 L       |                    | [Link](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80l) |
 | Superform     | Dec 2023 | EVM                   | 4 L            |                    | [Link](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)  |
-| MetaMorpho    | Aug 2023 | Lending, Vault        | 1 M, 8 L       |                    | [Link](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)  |
+| MetaMorpho    | Aug 2023 | Lending, Vault        | 1 M, 8 L       |            9        | [Link](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af/leaderboard)  |
 | Morpho - Blue | Aug 2023 | Lending               | 7 L            |                    | [Link](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)  |
 
 ### [Hats](https://app.hats.finance/profile/Bauchibred)
