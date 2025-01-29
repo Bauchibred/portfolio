@@ -19,11 +19,11 @@ https://calendly.com/bauchibred
 
 ## Introduction
 
-Hi, I am a Smart Contract Security Researcher interested in integrating and securing new & established blockchain protocols. I audit smart contracts written in solidity/vyperlang for EVM based chains. I also work on rust based smart contracts for Polkadot/substrate based systems. You can find me participating on various decentralized audit platforms such as [code4rena](https://code4rena.com/@bauchibred), [cantina](https://cantina.xyz/u/Bauchibred), [sherlock](https://audits.sherlock.xyz/watson/bauchibred), [codehawks](https://www.codehawks.com/profile/clk9ibj6p0002mh08c603lr2j), [hats](https://app.hats.finance/profile/Bauchibred) & [secure3](https://app.secure3.io/profile/Bauchibred).
+Hi, I am a Smart Contract Security Researcher interested in integrating and securing new & established blockchain protocols. I audit smart contracts written in Solidity/Vyper for EVM-based chains, Rust for Polkadot/Substrate and CosmWasm, and Go for Cosmos-based protocols. You can find me participating on various decentralized audit platforms such as [code4rena](https://code4rena.com/@bauchibred), [cantina](https://cantina.xyz/u/Bauchibred), [sherlock](https://audits.sherlock.xyz/watson/bauchibred), [codehawks](https://www.codehawks.com/profile/clk9ibj6p0002mh08c603lr2j), [hats](https://app.hats.finance/profile/Bauchibred) & [secure3](https://app.secure3.io/profile/Bauchibred).
 
-I am currently ranked #8 (90-day) and #20 (2024) on code4rena leaderboards. I am also ranked #30 (all time) on CodeHawks. _(warning: this info can be slightly outdated)_.
+I am currently ranked #13 (90-day) and #21 (2024) on code4rena leaderboards. I am also ranked #30 (all time) on CodeHawks. _(warning: this info can be slightly outdated)_.
 
-I have audited 100+ protocols on these various platforms + private engagements. I have also reported and helped mitigate vulnerabilities in live contracts via Immunify Boosts.
+I have audited 120+ protocols on these various platforms + private engagements. I have also reported and helped mitigate vulnerabilities in live contracts via Immunify Boosts.
 
 ## Organizations
 
@@ -40,6 +40,7 @@ Various organizations I have worked with:
 ## Stats 🏆
 
 ### Contests Won: 🥇
+- [Unruggable](https://x.com/code4rena/status/1882564909134708794) 
 - [Reserve Core MR](https://github.com/code-423n4/2024-09-reserve-mitigation-findings)
 - [Domichain](https://app.secure3.io/0616a26f7b) 
 - [Renzo MR](https://github.com/code-423n4/2024-06-renzo-mitigation-findings)
@@ -57,11 +58,11 @@ Various organizations I have worked with:
 
 - [Renzo](https://code4rena.com/audits/2024-04-renzo#top) ... _🥇 non-team competitor_
 - [Loopfi](https://code4rena.com/audits/2024-07-loopfi) 
+- [Agni Finance](https://app.secure3.io/en/7871138e25) 
 - Doubler Invitational (Private)
 - [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287/report)
 - Audit 384 Invitational (Private)
 - [Panoptic](https://code4rena.com/audits/2024-06-panoptic)
-- [Loopfi #2](https://code4rena.com/audits/2024-10-loopfi) 
 - [Ulti Invitational](https://discord.com/channels/810916927919620096/810929015509483554/1299490426532663330)
 
 ### Top 5: 🏅
@@ -71,13 +72,15 @@ Various organizations I have worked with:
 - [Thorchain](https://code4rena.com/audits/2024-06-thorchain)
 - [Abracadabra Mimswap](https://code4rena.com/audits/2024-03-abracadabra-mimswap)
 - [Starknet Staking](https://x.com/codehawks/status/1847695611958636890?s=46)
+- [Loopfi #2](https://code4rena.com/audits/2024-10-loopfi) 
 - [Krystal Defi](https://code4rena.com/reports/2024-06-krystal-defi) 
 - [Kelp Dao](https://code4rena.com/audits/2023-11-kelp-dao-rseth)
 ### Top 10: 🏅
 - [Predy](https://code4rena.com/audits/2024-05-predy)
 - [Maia DAO](https://code4rena.com/audits/2023-09-centrifuge)
 - [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend)
-- [Kakarot](https://code4rena.com/audits/2024-09-kakarot)   
+- [Kakarot](https://code4rena.com/audits/2024-09-kakarot)
+- [Nibiru](https://code4rena.com/audits/2024-11-nibiru)
 - [Vyper Compiler](https://codehawks.cyfrin.io/c/2023-09-vyper-compiler/results?t=report&page=1)
 - [Salty.io](https://code4rena.com/audits/2024-01-saltyio)
 - [The Wildcat Protocol](https://code4rena.com/audits/2024-08-the-wildcat-protocol)   
@@ -86,6 +89,7 @@ Various organizations I have worked with:
 - [Index](https://audits.sherlock.xyz/contests/81/report)
 - [Union Finance](https://audits.sherlock.xyz/contests/445/leaderboard)
 - [Metamorpho](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af/leaderboard) 
+- [Lambo.win](https://code4rena.com/audits/2024-12-lambowin)
 - [Munchables](https://code4rena.com/audits/2024-04-panoptic)
 
 ## Portfolio
@@ -94,6 +98,9 @@ Various organizations I have worked with:
 
 | Contest                  | Date      | Keywords              | Findings       | Rank (top 10 only) | Report                                                                                                       |
 | ------------------------ | --------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Unruggable        | Jan 2025 | EVM, Solidity, ENS          | 1 M, 11 L             | 1                  | Private                                    |
+| Nibiru        | Dec 2024 | Cosmos, Go, Market          | 2 M, 13 L             | 6                  | [Link](https://code4rena.com/audits/2024-11-nibiru)                                     |
+| Lambo.win        | Dec 2024 | EVM, Solidity           | 2 M, 11 L             | 6                  | [Link](https://code4rena.com/audits/2024-12-lambowin)                                     |
 | Loopfi #2        | Oct 2024 | EVM, Solidity, Market          | 1 M, 7 L             | 5                  | [Link](https://code4rena.com/audits/2024-10-loopfi)                                     |
 | Kakarot        | Oct 2024 | Starknet, Cairo          | 3 M              | 7                  | [Link](https://code4rena.com/audits/2024-09-kakarot)                                     |
 | Ulti Invitational    | Oct 2024 | EVM, Solidity          | 3 H, 3 M        | 3                  | Private                                   |
@@ -207,6 +214,8 @@ Various organizations I have worked with:
 
 | Contest       | Date     | Keywords              | Findings       | Rank (top 10 only) | Report                                                                         |
 | ------------- | -------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------ |
+| Stakeup-bloomv2     | Oct 2024 | EVM, Solidity  | 2 H, 2 L            |                    | [Link](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)             |
+| Primev     | Sep 2024 | Solidity, P2P Network | 1 M, 4 L            |                    | [Link](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c/leaderboard)             |
 | Uniswap V4     | Sep 2024 | Solidity, DEX | 1 M            |                    | [Link](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659/leaderboard)             |
 | Centrifuge     | Sep 2024 | L1, Substrate, Rust | 1 H, 4 M            |       4             | [Link](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard)             |
 | Zetachain     | Aug 2024 | L1, Solana | 1 M            |                    | [Link](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e)             |
@@ -228,6 +237,7 @@ Various organizations I have worked with:
 
 | Contest | Date      | Keywords | Findings | Rank (top 10 only) | Report  |
 | ------- | --------- | -------- | -------- | ------------------ | ------- |
+| Agni Finance       | Jun 2024 | EVM, Solidity, Mantle        |     3 H, 3 M, 5 L     |                    | [Link](https://app.secure3.io/en/7871138e25) |
 | DeekNetwork       | Jun 2024 | SocialFi, Berachain        |     1 L     |                    | [Link](https://app.secure3.io/en/f1da07fd4c) |
 | Domichain       | Jun 2024 | Rust, Blockchain, DLT        |     2 M     |                   1 | [Link](https://app.secure3.io/0616a26f7b) |
 | NeoX Bridge      | Jun 2024  | Bridge        |          |                 2    | [Link](https://app.secure3.io/3d3e97be60?tab=winners) |
