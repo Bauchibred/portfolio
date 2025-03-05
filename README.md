@@ -23,7 +23,7 @@ Hi, I am a Smart Contract Security Researcher interested in integrating and secu
 
 I am currently ranked #13 (90-day) and #21 (2024) on code4rena leaderboards. I am also ranked #30 (all time) on CodeHawks. _(warning: this info can be slightly outdated)_.
 
-I have audited 120+ protocols on these various platforms + private engagements. I have also reported and helped mitigate vulnerabilities in live contracts via Immunify Boosts.
+I have audited 150+ protocols on these various platforms + private engagements. I have also reported and helped mitigate vulnerabilities in live contracts via Immunify Boosts.
 
 ## Organizations
 
@@ -77,9 +77,12 @@ Various organizations I have worked with:
 - [Kelp Dao](https://code4rena.com/audits/2023-11-kelp-dao-rseth)
 ### Top 10: 🏅
 - [Predy](https://code4rena.com/audits/2024-05-predy)
+- [Mantra Chain](https://code4rena.com/audits/2024-11-mantra-dex)
+- [Concrete](https://code4rena.com/audits/2024-11-concrete)
 - [Maia DAO](https://code4rena.com/audits/2023-09-centrifuge)
 - [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend)
 - [Kakarot](https://code4rena.com/audits/2024-09-kakarot)
+- [Mantra DEX](https://code4rena.com/audits/2024-11-mantra-dex)
 - [Nibiru](https://code4rena.com/audits/2024-11-nibiru)
 - [Vyper Compiler](https://codehawks.cyfrin.io/c/2023-09-vyper-compiler/results?t=report&page=1)
 - [Salty.io](https://code4rena.com/audits/2024-01-saltyio)
@@ -99,8 +102,11 @@ Various organizations I have worked with:
 | Contest                  | Date      | Keywords              | Findings       | Rank (top 10 only) | Report                                                                                                       |
 | ------------------------ | --------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------ |
 | Unruggable        | Jan 2025 | EVM, Solidity, ENS          | 1 M, 11 L             | 1                  | Private                                    |
-| Nibiru        | Dec 2024 | Cosmos, Go, Market          | 2 M, 13 L             | 6                  | [Link](https://code4rena.com/audits/2024-11-nibiru)                                     |
+| Concrete      | Dec 2024 | EVM, Solidity, CosmWasm          | 3 H, 4 M, 26 L             | 7                  | [Link](https://code4rena.com/audits/2024-11-concrete)                                     |
+| Mantra DEX       | Dec 2024 | Cosmos, Rust, CosmWasm          | 4 M, 24 L             | 8                  | [Link](https://code4rena.com/audits/2024-11-mantra-dex)                                     |
 | Lambo.win        | Dec 2024 | EVM, Solidity           | 2 M, 11 L             | 6                  | [Link](https://code4rena.com/audits/2024-12-lambowin)                                     |
+| Mantra Chain       | Dec 2024 | Cosmos, Go, CosmWasm          | 1H , 20 L             | 7                  | [Link](https://code4rena.com/audits/2024-11-mantra-chain)                                     |
+| Nibiru        | Nov 2024 | Cosmos, Go, EVM          | 2 M, 13 L             | 6                  | [Link](https://code4rena.com/audits/2024-11-nibiru)                                     |
 | Loopfi #2        | Oct 2024 | EVM, Solidity, Market          | 1 M, 7 L             | 5                  | [Link](https://code4rena.com/audits/2024-10-loopfi)                                     |
 | Kakarot        | Oct 2024 | Starknet, Cairo          | 3 M              | 7                  | [Link](https://code4rena.com/audits/2024-09-kakarot)                                     |
 | Ulti Invitational    | Oct 2024 | EVM, Solidity          | 3 H, 3 M        | 3                  | Private                                   |
@@ -237,7 +243,7 @@ Various organizations I have worked with:
 
 | Contest | Date      | Keywords | Findings | Rank (top 10 only) | Report  |
 | ------- | --------- | -------- | -------- | ------------------ | ------- |
-| Agni Finance       | Jun 2024 | EVM, Solidity, Mantle        |     3 H, 3 M, 5 L     |                    | [Link](https://app.secure3.io/en/7871138e25) |
+| Agni Finance       | Jun 2024 | EVM, Solidity, Mantle        |     3 H, 3 M, 5 L     |          3          | [Link](https://app.secure3.io/en/7871138e25) |
 | DeekNetwork       | Jun 2024 | SocialFi, Berachain        |     1 L     |                    | [Link](https://app.secure3.io/en/f1da07fd4c) |
 | Domichain       | Jun 2024 | Rust, Blockchain, DLT        |     2 M     |                   1 | [Link](https://app.secure3.io/0616a26f7b) |
 | NeoX Bridge      | Jun 2024  | Bridge        |          |                 2    | [Link](https://app.secure3.io/3d3e97be60?tab=winners) |
