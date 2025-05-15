@@ -40,7 +40,8 @@ Various organizations I have worked with:
 ## Stats 🏆
 
 ### Contests Won: 🥇
-- [Unruggable](https://x.com/code4rena/status/1882564909134708794) 
+- [Unruggable](https://x.com/code4rena/status/1882564909134708794)
+- [Curve Storage Proofs](https://codehawks.cyfrin.io/c/2025-03-curve/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)
 - [Reserve Core MR](https://github.com/code-423n4/2024-09-reserve-mitigation-findings)
 - [Domichain](https://app.secure3.io/0616a26f7b) 
 - [Renzo MR](https://github.com/code-423n4/2024-06-renzo-mitigation-findings)
@@ -66,6 +67,7 @@ Various organizations I have worked with:
 - [Ulti Invitational](https://discord.com/channels/810916927919620096/810929015509483554/1299490426532663330)
 
 ### Top 5: 🏅
+- [Starknet Perpetual](https://code4rena.com/audits/2025-03-starknet-perpetual)  
 - [Axelar Network](https://code4rena.com/audits/2024-08-axelar-network) 
 - [Reserve Core](https://code4rena.com/audits/2024-07-reserve-core)  
 - [Centrifuge](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515/leaderboard) 
@@ -101,7 +103,10 @@ Various organizations I have worked with:
 
 | Contest                  | Date      | Keywords              | Findings       | Rank (top 10 only) | Report                                                                                                       |
 | ------------------------ | --------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Starknet Perpetual        | Mar 2025 | Cairo, Starknet, perp          | 2H, 10 L             | 4                  | [Link](https://code4rena.com/audits/2025-03-starknet-perpetual)                            |
 | Unruggable        | Jan 2025 | EVM, Solidity, ENS          | 1 M, 11 L             | 1                  | Private                                    |
+| Next Generation        | Jan 2025 | EVM, Solidity, ENS          | 1 M, 13 L             |                   | [Link](https://code4rena.com/audits/2025-01-next-generation)                                    |
+| Liquid Ron        | Jan 2025 | EVM, Solidity         | 1 H, 1 M, 15 L             |                   | [Link](https://code4rena.com/audits/2025-01-liquid-ron)                                    |
 | Concrete      | Dec 2024 | EVM, Solidity, CosmWasm          | 3 H, 4 M, 26 L             | 7                  | [Link](https://code4rena.com/audits/2024-11-concrete)                                     |
 | Mantra DEX       | Dec 2024 | Cosmos, Rust, CosmWasm          | 4 M, 24 L             | 8                  | [Link](https://code4rena.com/audits/2024-11-mantra-dex)                                     |
 | Lambo.win        | Dec 2024 | EVM, Solidity           | 2 M, 11 L             | 6                  | [Link](https://code4rena.com/audits/2024-12-lambowin)                                     |
@@ -198,8 +203,11 @@ Various organizations I have worked with:
 
 ### [Codehawks](https://codehawks.cyfrin.io/profile/clk9ibj6p0002mh08c603lr2j)
 
+
 | Contest                 | Date     | Keywords        | Findings      | Rank (top 10 only) | Report                                                             |
 | ----------------------- | -------- | --------------- | ------------- | ------------------ | ------------------------------------------------------------------ |
+| Curve Storage Proofs               | Mar 2025 | Vyper, Defi, L1, L2       | 2 L          |      1              | [Link](https://codehawks.cyfrin.io/c/2025-03-curve/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
+| ZKsync Era              | Oct 2024 | Layer 2       | 2L          |                    | [Link](https://codehawks.cyfrin.io/c/2024-10-zksync) |
 | Starknet Staking                | Aug 2024 | Starknet, Defi       | 2 H,  1 M          |                    | [Private](https://x.com/codehawks/status/1847695611958636890?s=46) |
 | Tadle                | Aug 2024 | Liquidity bridging      | 1 H,  1 M          |                    | [Link](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
 | ArkProject: NFT Bridge                 | Aug 2024 | Bridge, Starknet, Cairo          | 1 M          |                    | [Link](https://codehawks.cyfrin.io/c/2024-07-ark-project/results?lt=contest&sc=reward&sj=reward&page=1&t=report) |
@@ -220,6 +228,8 @@ Various organizations I have worked with:
 
 | Contest       | Date     | Keywords              | Findings       | Rank (top 10 only) | Report                                                                         |
 | ------------- | -------- | --------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------ |
+| Infrared   | Oct 2024 | EVM, Solidity  | 3 M, 4 L            |                    | [Link](https://cantina.xyz/competitions/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d)             |
+| Story Protocol    | Oct 2024 | EVM, Solidity  | 4 M, 6 L            |                    | [Link](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58)             |
 | Stakeup-bloomv2     | Oct 2024 | EVM, Solidity  | 2 H, 2 L            |                    | [Link](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)             |
 | Primev     | Sep 2024 | Solidity, P2P Network | 1 M, 4 L            |                    | [Link](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c/leaderboard)             |
 | Uniswap V4     | Sep 2024 | Solidity, DEX | 1 M            |                    | [Link](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659/leaderboard)             |
